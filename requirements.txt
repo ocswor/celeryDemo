@@ -1,0 +1,6 @@
+celery
+mongoengine
+requests
+selenium==3.4.3
+scrapy==1.4.0
+

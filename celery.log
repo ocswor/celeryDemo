@@ -1,0 +1,83 @@
+[2017-07-05 16:29:46,316: INFO/MainProcess] Connected to redis://localhost:6379//
+[2017-07-05 16:29:46,328: INFO/MainProcess] mingle: searching for neighbors
+[2017-07-05 16:29:46,333: INFO/Beat] beat: Starting...
+[2017-07-05 16:29:46,503: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:29:47,356: INFO/MainProcess] mingle: all alone
+[2017-07-05 16:29:47,378: INFO/MainProcess] celery@worker ready.
+[2017-07-05 16:29:47,774: INFO/MainProcess] Received task: tasks.cache_tasks.add[71f43230-e2eb-4dfb-a46d-320e8fcce84e]  
+[2017-07-05 16:29:47,779: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:29:47,798: INFO/PoolWorker-3] task 71f43230-e2eb-4dfb-a46d-320e8fcce84e done
+[2017-07-05 16:29:47,798: INFO/PoolWorker-3] Task tasks.cache_tasks.add[71f43230-e2eb-4dfb-a46d-320e8fcce84e] succeeded in 0.0226654790022s: 32
+[2017-07-05 16:29:49,299: INFO/MainProcess] Events of group {task} enabled by remote.
+[2017-07-05 16:29:49,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:29:49,498: INFO/MainProcess] Received task: tasks.cache_tasks.add[f1d67ad4-317b-4844-b416-9baf9e1a0a8b]  
+[2017-07-05 16:29:49,499: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:29:49,502: INFO/PoolWorker-3] task f1d67ad4-317b-4844-b416-9baf9e1a0a8b done
+[2017-07-05 16:29:49,502: INFO/PoolWorker-3] Task tasks.cache_tasks.add[f1d67ad4-317b-4844-b416-9baf9e1a0a8b] succeeded in 0.00301995799964s: 32
+[2017-07-05 16:29:52,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:29:52,497: INFO/MainProcess] Received task: tasks.cache_tasks.add[7afd7149-ca5f-408e-93da-4fefd01fa6fb]  
+[2017-07-05 16:29:52,499: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:29:52,502: INFO/PoolWorker-3] task 7afd7149-ca5f-408e-93da-4fefd01fa6fb done
+[2017-07-05 16:29:52,502: INFO/PoolWorker-3] Task tasks.cache_tasks.add[7afd7149-ca5f-408e-93da-4fefd01fa6fb] succeeded in 0.00298349800141s: 32
+[2017-07-05 16:29:55,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:29:55,497: INFO/MainProcess] Received task: tasks.cache_tasks.add[43b378bb-1c57-4e8c-b3b8-6d7febfb865a]  
+[2017-07-05 16:29:55,499: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:29:55,501: INFO/PoolWorker-3] task 43b378bb-1c57-4e8c-b3b8-6d7febfb865a done
+[2017-07-05 16:29:55,501: INFO/PoolWorker-3] Task tasks.cache_tasks.add[43b378bb-1c57-4e8c-b3b8-6d7febfb865a] succeeded in 0.00283633399886s: 32
+[2017-07-05 16:29:58,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:29:58,497: INFO/MainProcess] Received task: tasks.cache_tasks.add[1fd09a43-6042-40d0-88a4-0dfaeac81136]  
+[2017-07-05 16:29:58,499: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:29:58,502: INFO/PoolWorker-3] task 1fd09a43-6042-40d0-88a4-0dfaeac81136 done
+[2017-07-05 16:29:58,502: INFO/PoolWorker-3] Task tasks.cache_tasks.add[1fd09a43-6042-40d0-88a4-0dfaeac81136] succeeded in 0.0030018159996s: 32
+[2017-07-05 16:30:01,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:01,501: INFO/MainProcess] Received task: tasks.cache_tasks.add[b941f329-233a-43ae-8efb-0b2cca91d305]  
+[2017-07-05 16:30:01,503: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:01,506: INFO/PoolWorker-3] task b941f329-233a-43ae-8efb-0b2cca91d305 done
+[2017-07-05 16:30:01,506: INFO/PoolWorker-3] Task tasks.cache_tasks.add[b941f329-233a-43ae-8efb-0b2cca91d305] succeeded in 0.0029832500004s: 32
+[2017-07-05 16:30:04,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:04,561: INFO/MainProcess] Received task: tasks.cache_tasks.add[8c517b69-2178-4a2d-b301-60765bbfdc6e]  
+[2017-07-05 16:30:04,564: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:04,680: INFO/PoolWorker-3] task 8c517b69-2178-4a2d-b301-60765bbfdc6e done
+[2017-07-05 16:30:04,680: INFO/PoolWorker-3] Task tasks.cache_tasks.add[8c517b69-2178-4a2d-b301-60765bbfdc6e] succeeded in 0.116480435001s: 32
+[2017-07-05 16:30:07,495: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:07,501: INFO/MainProcess] Received task: tasks.cache_tasks.add[b90ebfb0-db2a-47d7-ae40-ad5c103a18e0]  
+[2017-07-05 16:30:07,504: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:07,507: INFO/PoolWorker-3] task b90ebfb0-db2a-47d7-ae40-ad5c103a18e0 done
+[2017-07-05 16:30:07,508: INFO/PoolWorker-3] Task tasks.cache_tasks.add[b90ebfb0-db2a-47d7-ae40-ad5c103a18e0] succeeded in 0.00369696399866s: 32
+[2017-07-05 16:30:10,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:10,499: INFO/MainProcess] Received task: tasks.cache_tasks.add[9a0c6d5e-ada9-4f74-b608-8b0bc55c3015]  
+[2017-07-05 16:30:10,500: INFO/PoolWorker-3] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:10,503: INFO/PoolWorker-3] task 9a0c6d5e-ada9-4f74-b608-8b0bc55c3015 done
+[2017-07-05 16:30:10,503: INFO/PoolWorker-3] Task tasks.cache_tasks.add[9a0c6d5e-ada9-4f74-b608-8b0bc55c3015] succeeded in 0.00304165000125s: 32
+[2017-07-05 16:30:11,334: INFO/MainProcess] Received task: tasks.music_tasks.search_keywords[6166f4b2-0b28-4c85-a240-d35296f2fa0d]  
+[2017-07-05 16:30:12,305: INFO/PoolWorker-3] 告白气球 歌曲库已经存在
+[2017-07-05 16:30:13,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:13,501: INFO/MainProcess] Received task: tasks.cache_tasks.add[38991bb5-0412-45b3-9658-c5d7832c6432]  
+[2017-07-05 16:30:13,508: INFO/PoolWorker-2] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:13,525: INFO/PoolWorker-2] task 38991bb5-0412-45b3-9658-c5d7832c6432 done
+[2017-07-05 16:30:13,526: INFO/PoolWorker-2] Task tasks.cache_tasks.add[38991bb5-0412-45b3-9658-c5d7832c6432] succeeded in 0.021913356999s: 32
+[2017-07-05 16:30:16,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:16,498: INFO/MainProcess] Received task: tasks.cache_tasks.add[2646cf67-a216-42e8-a7b5-6f092fc30e59]  
+[2017-07-05 16:30:16,500: INFO/PoolWorker-2] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:16,503: INFO/PoolWorker-2] task 2646cf67-a216-42e8-a7b5-6f092fc30e59 done
+[2017-07-05 16:30:16,503: INFO/PoolWorker-2] Task tasks.cache_tasks.add[2646cf67-a216-42e8-a7b5-6f092fc30e59] succeeded in 0.00315003300057s: 32
+[2017-07-05 16:30:18,708: INFO/PoolWorker-3] 告白气球 - 周杰伦 歌词 已经写入
+[2017-07-05 16:30:19,251: INFO/PoolWorker-3] 布拉格广场 歌曲库已经存在
+[2017-07-05 16:30:19,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:19,499: INFO/MainProcess] Received task: tasks.cache_tasks.add[71f82b6b-47e2-49a4-8b3d-77fabf15fca3]  
+[2017-07-05 16:30:19,500: INFO/PoolWorker-2] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:19,503: INFO/PoolWorker-2] task 71f82b6b-47e2-49a4-8b3d-77fabf15fca3 done
+[2017-07-05 16:30:19,504: INFO/PoolWorker-2] Task tasks.cache_tasks.add[71f82b6b-47e2-49a4-8b3d-77fabf15fca3] succeeded in 0.00340068399964s: 32
+[2017-07-05 16:30:22,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:22,500: INFO/MainProcess] Received task: tasks.cache_tasks.add[0ef70bcf-dc5e-4138-8d84-613e3118d0be]  
+[2017-07-05 16:30:22,502: INFO/PoolWorker-2] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:22,505: INFO/PoolWorker-2] task 0ef70bcf-dc5e-4138-8d84-613e3118d0be done
+[2017-07-05 16:30:22,505: INFO/PoolWorker-2] Task tasks.cache_tasks.add[0ef70bcf-dc5e-4138-8d84-613e3118d0be] succeeded in 0.00334833899979s: 32
+[2017-07-05 16:30:25,496: INFO/Beat] Scheduler: Sending due task add-every-3-seconds (tasks.cache_tasks.add)
+[2017-07-05 16:30:25,497: INFO/PoolWorker-3] 布拉格广场 - 蔡依林/周杰伦 歌词 已经写入
+[2017-07-05 16:30:25,499: INFO/MainProcess] Received task: tasks.cache_tasks.add[cc0ddeca-0aa5-423e-91ce-800dfd26b265]  
+[2017-07-05 16:30:25,501: INFO/PoolWorker-2] [<HotSongs: HotSongs object>]
+[2017-07-05 16:30:25,503: INFO/PoolWorker-2] task cc0ddeca-0aa5-423e-91ce-800dfd26b265 done
+[2017-07-05 16:30:25,503: INFO/PoolWorker-2] Task tasks.cache_tasks.add[cc0ddeca-0aa5-423e-91ce-800dfd26b265] succeeded in 0.00282175699977s: 32
+[2017-07-05 16:30:26,133: INFO/PoolWorker-3] 青花瓷 歌曲库已经存在
+[2017-07-05 16:30:26,816: INFO/MainProcess] beat: Shutting down...
